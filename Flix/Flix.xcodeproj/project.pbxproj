@@ -22,6 +22,7 @@
 		F801956B27B6CDB60046A514 /* FlixUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F801956A27B6CDB60046A514 /* FlixUITestsLaunchTests.swift */; };
 		F801957A27B6F3300046A514 /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F801957927B6F3300046A514 /* MovieCell.swift */; };
 		F801957D27B718D20046A514 /* AlamofireImage in Frameworks */ = {isa = PBXBuildFile; productRef = F801957C27B718D20046A514 /* AlamofireImage */; };
+		F80B43EA27C0860B00C8270B /* MovieDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F80B43E927C0860A00C8270B /* MovieDetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +67,7 @@
 		F801956827B6CDB60046A514 /* FlixUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlixUITests.swift; sourceTree = "<group>"; };
 		F801956A27B6CDB60046A514 /* FlixUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlixUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		F801957927B6F3300046A514 /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
+		F80B43E927C0860A00C8270B /* MovieDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +151,7 @@
 				F801954627B6CDB20046A514 /* SceneDelegate.swift */,
 				F801954827B6CDB20046A514 /* ViewController.swift */,
 				F801954A27B6CDB20046A514 /* Main.storyboard */,
+				F80B43E927C0860A00C8270B /* MovieDetailsViewController.swift */,
 				F801957927B6F3300046A514 /* MovieCell.swift */,
 				F801955027B6CDB60046A514 /* Assets.xcassets */,
 				F801955227B6CDB60046A514 /* LaunchScreen.storyboard */,
@@ -422,6 +425,7 @@
 			files = (
 				F801954F27B6CDB20046A514 /* Flix.xcdatamodeld in Sources */,
 				F801954927B6CDB20046A514 /* ViewController.swift in Sources */,
+				F80B43EA27C0860B00C8270B /* MovieDetailsViewController.swift in Sources */,
 				F801954527B6CDB20046A514 /* AppDelegate.swift in Sources */,
 				F801957A27B6F3300046A514 /* MovieCell.swift in Sources */,
 				F801954727B6CDB20046A514 /* SceneDelegate.swift in Sources */,

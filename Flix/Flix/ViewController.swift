@@ -64,7 +64,5 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         task.resume()
         
     }
-
-
 }
 
